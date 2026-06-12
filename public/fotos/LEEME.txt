@@ -1,0 +1,3 @@
+Poné acá tus fotos (jpg o png).
+Después escribí el nombre de cada archivo en src/data.js
+Ejemplo: una foto llamada cocina1.jpg se referencia como "/fotos/cocina1.jpg"

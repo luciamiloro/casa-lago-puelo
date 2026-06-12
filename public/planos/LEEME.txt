@@ -1,0 +1,4 @@
+Poné acá los escaneos de los planos originales (jpg o png).
+Después escribí el nombre de cada archivo en src/data.js, en la sección
+"planosOriginales".
+Ejemplo: un escaneo llamado planta.jpg se referencia como "/planos/planta.jpg"
