@@ -155,7 +155,7 @@ export default function App() {
       <header className="portada">
         <div className="portada-overlay" />
         <div className="portada-contenido">
-          <span className="portada-eyebrow">Propiedad en venta · Patagonia</span>
+          <span className="portada-eyebrow">Propiedad en venta y alquiler · Patagonia</span>
           <h1>{propiedad.titulo}</h1>
           <p className="portada-sub">{propiedad.subtitulo}</p>
           <div className="destacados">
