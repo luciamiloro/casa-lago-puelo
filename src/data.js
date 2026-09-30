@@ -62,7 +62,7 @@ export const ambientes = [
     id: "dormserv",
     nombre: "Dormitorio de servicio",
     x: 43, y: 25,
-    texto: "Dormitorio de servicio, el más chico de la casa, con ventana al patio y conexión directa al lavadero. ",
+    texto: "Dormitorio de servicio, con ventana al patio y conexión directa al lavadero. ",
     fotos: ["/fotos/11-habit-servicio.jpg"],
   },
   {
@@ -83,7 +83,7 @@ export const ambientes = [
     id: "bano",
     nombre: "Baño",
     x: 15, y: 50,
-    texto: "Baño principal con bañadera y espacio de guardado, cerca de los tres dormitorios.",
+    texto: "Baño principal con bañadera, bidé y espacio de guardado, cerca de los tres dormitorios.",
     fotos: ["/fotos/13-baño2.jpg", "/fotos/14-baño2.jpg"],
   },
   {
