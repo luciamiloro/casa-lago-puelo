@@ -5,7 +5,7 @@ import React from 'react'
 export function PlanoCasa() {
   return (
     <img
-      src="/plano-casa.png"
+      src="/plano-casa.svg"
       alt="Plano de la planta de la casa"
       className="plano-img"
       draggable="false"

@@ -36,7 +36,7 @@ export const propiedad = {
     { numero: "6", texto: "Ambientes, 4\u00A0dormitorios" },
     { numero: "2", texto: "Baños" },
     { numero: "1", texto: "Galpón independiente con toilette" },
-    { numero: "1", texto: "Sótano con central de calefacción" }
+    { numero: "+", texto: "Sótano con central de calefacción" }
   ],
 }
 
@@ -61,7 +61,7 @@ export const ambientes = [
   {
     id: "dormserv",
     nombre: "Dormitorio de servicio",
-    x: 41, y: 16,
+    x: 43, y: 25,
     texto: "Dormitorio de servicio.",
     fotos: ["/fotos/11-habit-servicio.jpg"],
   },
@@ -82,14 +82,14 @@ export const ambientes = [
   {
     id: "bano",
     nombre: "Baño",
-    x: 12, y: 54,
+    x: 15, y: 50,
     texto: "Baño principal.",
     fotos: ["/fotos/13-baño2.jpg", "/fotos/14-baño2.jpg"],
   },
   {
     id: "banoserv",
     nombre: "Baño de servicio / Toilette",
-    x: 42, y: 44,
+    x: 45, y: 44,
     texto: "Baño de servicio y toilette.",
     fotos: ["/fotos/12-baño1.jpg"],
   },
@@ -199,6 +199,6 @@ export const contacto = {
   // Argentina = 54 + 9 + código de área + número
   whatsapp: "5492944623377", 
   // Mensaje que aparece ya escrito cuando te escriben:
-  mensaje: "Hola, vi la página de la casa en Lago Puelo y me interesa.",
+  mensaje: "Hola Franco, vi la página de la casa en Lago Puelo y me interesa.",
   email: "",
 }
