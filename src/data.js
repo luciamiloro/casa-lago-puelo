@@ -32,10 +32,11 @@ export const propiedad = {
     "Cuenta además con un galpón / garage independiente sobre la misma parcela, que incluye toilette.",
   // Datos destacados que se ven en la portada (editá libremente)
   destacados: [
-    { numero: "3", texto: "Dormitorios + habitación de servicio" },
     { numero: "856", texto: "m² de terreno" },
+    { numero: "6", texto: "Ambientes, 4\u00A0dormitorios" },
+    { numero: "2", texto: "Baños" },
     { numero: "1", texto: "Galpón independiente con toilette" },
-    { numero: "+", texto: "Sótano con central de calefacción" },
+    { numero: "1", texto: "Sótano con central de calefacción" }
   ],
 }
 
@@ -171,7 +172,7 @@ export const videos = [
 export const ubicacionLinks = {
   mapa: "https://maps.app.goo.gl/VDQVCZb2sny6fvFw6",
   streetView:
-    "https://www.google.com/maps/place/42%C2%B003'57.9%22S+71%C2%B035'52.0%22W/@-42.066082,-71.597769,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-42.066082!4d-71.597769?entry=ttu",
+      "https://www.google.com/maps/@?api=1&map_action=pano&pano=s-jCT92A742AAW0mgWGuIg&heading=116&pitch=10",
   // Coordenadas (para el mapa embebido). No hace falta tocarlas.
   lat: -42.066082,
   lng: -71.597769,
@@ -196,8 +197,8 @@ export const contacto = {
   nombre: "",
   // Número en formato internacional, sin "+", sin 0, sin 15:
   // Argentina = 54 + 9 + código de área + número
-  whatsapp: "5491139202793",
+  whatsapp: "5492944623377", 
   // Mensaje que aparece ya escrito cuando te escriben:
-  mensaje: "Hola Lucía, vi la página de la casa en Lago Puelo y me interesa.",
+  mensaje: "Hola, vi la página de la casa en Lago Puelo y me interesa.",
   email: "",
 }
